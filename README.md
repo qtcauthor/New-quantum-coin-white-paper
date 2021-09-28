@@ -45,11 +45,11 @@ There is no long-term mechanism to feed the technical, maintenance, and operatio
 #### 1.1.12.沒有一個長效機製激活市場。
 There is no long-term rule to activate the market.
 ### 1.2.項目目標 objectives
-本白皮書旨在設計一種全新的加密貨幣技術方案，用了至少24項創新點解決上述問題。如果新量子幣能夠上線運行，必將會高速成長，給人類帶來安全、快捷、低成本、長期可持續的金融服務。\<br>
-This white paper presents a brand-new cryptocurrency technical solution that uses at least 24 innovations to solve the above problems. If this new quantum coin can be launched online, it will surely grow rapidly and provide humans with safe, fast, low-cost, and long-term sustainable financial services.\<br>
-本NFT將白皮書的每個要點單獨哈希，封裝在一個默克爾樹裏，根哈希見封面，有不大於32個葉子節點，有內容的葉子節點都在前面。\<br>
-This NFT hashes each key point of the white paper separately and encapsulates it in a Merkle tree. The root hash is shown on the cover. There are no more than 32 leaf nodes, and the leaf nodes with content are in the front.\<br>
-最後4個葉子節點作者預留了能夠證明自己身份的信息，作者有權向購買方保密，有權在任意時間公開。\<br>
+本白皮書旨在設計一種全新的加密貨幣技術方案，用了至少24項創新點解決上述問題。如果新量子幣能夠上線運行，必將會高速成長，給人類帶來安全、快捷、低成本、長期可持續的金融服務。<br>
+This white paper presents a brand-new cryptocurrency technical solution that uses at least 24 innovations to solve the above problems. If this new quantum coin can be launched online, it will surely grow rapidly and provide humans with safe, fast, low-cost, and long-term sustainable financial services.<br>
+本NFT將白皮書的每個要點單獨哈希，封裝在一個默克爾樹裏，根哈希見封面，有不大於32個葉子節點，有內容的葉子節點都在前面。<br>
+This NFT hashes each key point of the white paper separately and encapsulates it in a Merkle tree. The root hash is shown on the cover. There are no more than 32 leaf nodes, and the leaf nodes with content are in the front.<br>
+最後4個葉子節點作者預留了能夠證明自己身份的信息，作者有權向購買方保密，有權在任意時間公開。<br>
 In the last four leaf nodes, the author reserves information that can prove his identity. The author has the right to keep it confidential to the purchaser and has the right to disclose it at any time.\<br>
 其他葉子節點內容由作者單獨發送給首次購買本NFT的買受人。轉售的買受人請向轉售的出讓人索要內容，默克爾樹可以保障任何人無法篡改要點的內容。如果購買者是為了二次轉售，可以明確聲明不要葉子節點的內容，本作者願意只提供給後續的購買者。是否提供過了本作者會在https://github.com/qtcauthor 明確說明，如果標註提供過了，二次買受人請向二次出售人索要。\<br>
 The content of other leaf nodes is separately sent by the author to the buyer who purchases this NFT for the first time. Buyers of resale, please ask for the content from the reseller. Merkle Tree can guarantee that no one can tamper with the content of the main points. If the buyer is for the second resale, he can declare that he does not want the content of the leaf node, and the author is willing to only provide it to subsequent buyers.Whether it has been provided, the author will make it clear at https://github.com/qtcauthor. If it has been provided, please ask the secondary seller for it.\<br>
