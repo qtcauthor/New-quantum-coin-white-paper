@@ -3,7 +3,7 @@
 # New quantum coin white paper
 一個能夠抵抗量子計算破解的區塊鏈 A Blockchain capable of resisting quantum computing cracking
 [Merkle tree = 0xc66a1c288741e0639f4f03eeead444d09c2343270d968269a3279886b9a1eda4]  
-网址
+邮箱：
  qtcauthor@hotmail.com 
 ## 1.前言 preface
 
