@@ -50,21 +50,21 @@ This white paper presents a brand-new cryptocurrency technical solution that use
 本NFT將白皮書的每個要點單獨哈希，封裝在一個默克爾樹裏，根哈希見封面，有不大於32個葉子節點，有內容的葉子節點都在前面。<br>
 This NFT hashes each key point of the white paper separately and encapsulates it in a Merkle tree. The root hash is shown on the cover. There are no more than 32 leaf nodes, and the leaf nodes with content are in the front.<br>
 最後4個葉子節點作者預留了能夠證明自己身份的信息，作者有權向購買方保密，有權在任意時間公開。<br>
-In the last four leaf nodes, the author reserves information that can prove his identity. The author has the right to keep it confidential to the purchaser and has the right to disclose it at any time.\<br>
-其他葉子節點內容由作者單獨發送給首次購買本NFT的買受人。轉售的買受人請向轉售的出讓人索要內容，默克爾樹可以保障任何人無法篡改要點的內容。如果購買者是為了二次轉售，可以明確聲明不要葉子節點的內容，本作者願意只提供給後續的購買者。是否提供過了本作者會在https://github.com/qtcauthor 明確說明，如果標註提供過了，二次買受人請向二次出售人索要。\<br>
-The content of other leaf nodes is separately sent by the author to the buyer who purchases this NFT for the first time. Buyers of resale, please ask for the content from the reseller. Merkle Tree can guarantee that no one can tamper with the content of the main points. If the buyer is for the second resale, he can declare that he does not want the content of the leaf node, and the author is willing to only provide it to subsequent buyers.Whether it has been provided, the author will make it clear at https://github.com/qtcauthor. If it has been provided, please ask the secondary seller for it.\<br>
-本白皮書作者承諾對白皮書要點內容保密至2026-01-01。但是對默克爾樹本身的所有哈希值和最後幾個作者預留信息的葉子節點內容不承諾保密。\<br>
-The author of this white paper promises to keep the key points of the white paper confidential until January 1, 2026. However, all the hash values of Merkle tree itself and the leaf node contents of the last few authors' reserved information are not promised to be confidential.\<br>
-本白皮書作者是軟件工程師，可能會嘗試依據本白皮書著手開發。源代碼承諾保密期結束之前不發布、不開源、不提供給任何組織、團隊或個人。\<br>
-The author of this white paper is a software engineer and may try to start development based on this white paper. The source code promises that it will not be released, open sourced, or provided to any organization, team or individual before the end of the confidentiality period.\<br>
-任何團隊或個人，如果依據本白皮書主要內容創建了項目，表示認可本白皮書作者為團隊聯合創始人榮譽身份。\<br>
-If any team or individual creates a blockchain based on the main contents of this white paper will be deemed to have recognized the author of this white paper as the co-founder of the team by default.\<br>
-本白皮書涉及的技術要點可以全部采用或部分采用。例如，雖然可以阻止組建礦池，但如果項目團隊希望有礦池存在，可以不采用這個要點。\<br>
-The technical points involved in this white paper can be adopted in whole or in part. For example, although it is possible to prevent the formation of a mining pool, if the project team wishes to have a mining pool, this technical point may not be adopted.\<br>
+In the last four leaf nodes, the author reserves information that can prove his identity. The author has the right to keep it confidential to the purchaser and has the right to disclose it at any time.<br>
+其他葉子節點內容由作者單獨發送給首次購買本NFT的買受人。轉售的買受人請向轉售的出讓人索要內容，默克爾樹可以保障任何人無法篡改要點的內容。如果購買者是為了二次轉售，可以明確聲明不要葉子節點的內容，本作者願意只提供給後續的購買者。是否提供過了本作者會在https://github.com/qtcauthor 明確說明，如果標註提供過了，二次買受人請向二次出售人索要。<br>
+The content of other leaf nodes is separately sent by the author to the buyer who purchases this NFT for the first time. Buyers of resale, please ask for the content from the reseller. Merkle Tree can guarantee that no one can tamper with the content of the main points. If the buyer is for the second resale, he can declare that he does not want the content of the leaf node, and the author is willing to only provide it to subsequent buyers.Whether it has been provided, the author will make it clear at https://github.com/qtcauthor. If it has been provided, please ask the secondary seller for it.<br>
+本白皮書作者承諾對白皮書要點內容保密至2026-01-01。但是對默克爾樹本身的所有哈希值和最後幾個作者預留信息的葉子節點內容不承諾保密。<br>
+The author of this white paper promises to keep the key points of the white paper confidential until January 1, 2026. However, all the hash values of Merkle tree itself and the leaf node contents of the last few authors' reserved information are not promised to be confidential.<br>
+本白皮書作者是軟件工程師，可能會嘗試依據本白皮書著手開發。源代碼承諾保密期結束之前不發布、不開源、不提供給任何組織、團隊或個人。<br>
+The author of this white paper is a software engineer and may try to start development based on this white paper. The source code promises that it will not be released, open sourced, or provided to any organization, team or individual before the end of the confidentiality period.<br>
+任何團隊或個人，如果依據本白皮書主要內容創建了項目，表示認可本白皮書作者為團隊聯合創始人榮譽身份。<br>
+If any team or individual creates a blockchain based on the main contents of this white paper will be deemed to have recognized the author of this white paper as the co-founder of the team by default.<br>
+本白皮書涉及的技術要點可以全部采用或部分采用。例如，雖然可以阻止組建礦池，但如果項目團隊希望有礦池存在，可以不采用這個要點。<br>
+The technical points involved in this white paper can be adopted in whole or in part. For example, although it is possible to prevent the formation of a mining pool, if the project team wishes to have a mining pool, this technical point may not be adopted.<br>
 ### 1.3.免責聲明 Disclaimers
-基於保密的原因，本白皮書內容沒有經過專家討論、論證，只是根據作者的學識進行設計。涉及的某個技術要點、擬解決的問題有可能實際上解決不了，或者有其他BUG不可實施。本作者不承擔責任。\<br>
-For reasons of confidentiality, the content of this white paper has not been discussed or demonstrated by experts, but is designed based on the author's knowledge. It is possible that a certain technical point involved or a problem to be solved cannot actually be solved, or there are other bugs that cannot be implemented. The author does not assume responsibility.\<br>
-考慮到互聯網環境安全的不確定性，本作者承諾的保密條款如果不能證明泄密是本作者故意造成的，本作者不承擔責任。\<br>
-Due to the uncertainty of the security of the Internet environment, if the confidentiality clause promised by the author cannot prove that the leak was deliberately caused by the author, the author shall not be held liable.\<br>
-本白皮書大約36頁，3.01萬字中文。\<br>
+基於保密的原因，本白皮書內容沒有經過專家討論、論證，只是根據作者的學識進行設計。涉及的某個技術要點、擬解決的問題有可能實際上解決不了，或者有其他BUG不可實施。本作者不承擔責任。<br>
+For reasons of confidentiality, the content of this white paper has not been discussed or demonstrated by experts, but is designed based on the author's knowledge. It is possible that a certain technical point involved or a problem to be solved cannot actually be solved, or there are other bugs that cannot be implemented. The author does not assume responsibility.<br>
+考慮到互聯網環境安全的不確定性，本作者承諾的保密條款如果不能證明泄密是本作者故意造成的，本作者不承擔責任。<br>
+Due to the uncertainty of the security of the Internet environment, if the confidentiality clause promised by the author cannot prove that the leak was deliberately caused by the author, the author shall not be held liable.<br>
+本白皮書大約36頁，3.01萬字中文。<br>
 This white paper has about 36pages and30100 words in Chinese.
